@@ -24,5 +24,10 @@ export const MyDocument = () => (
         <Text>Section #2</Text>
       </View>
     </Page>
+    <Page>
+      <View>
+        <Text> hola hehe</Text>
+      </View>
+    </Page>
   </Document>
 );
